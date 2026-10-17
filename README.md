@@ -8,7 +8,7 @@
   <a href="https://mfernandasoni.github.io/"><img src="https://img.shields.io/badge/Portfolio-4b30c8?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/mariafernandasoni-data-analyst/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:m.fernanda.soni@gmail.com"><img src="https://img.shields.io/badge/Email-a08bcb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://mfernandasoni.github.io/assets/CV_MariaFernanda_Soni_DA.pdf"><img src="https://img.shields.io/badge/Download%20CV-14121c?style=for-the-badge&logo=readme&logoColor=white" alt="Download CV"></a>
+  <a href="https://mfernandasoni.github.io/assets/CV_MariaFernanda_Soni_DA_EN.pdf"><img src="https://img.shields.io/badge/Download%20CV-14121c?style=for-the-badge&logo=readme&logoColor=white" alt="Download CV"></a>
 </p>
 
 ---
